@@ -30,6 +30,8 @@ public class basic1 {
 				+ "}").when().log().all().post("maps/api/place/add/json")
 		.then().log().all().assertThat().statusCode(200);
 		
+		System.out.println("Git");
+		
 		
 		
 		
