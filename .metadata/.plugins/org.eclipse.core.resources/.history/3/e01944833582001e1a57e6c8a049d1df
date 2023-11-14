@@ -1,0 +1,18 @@
+
+public class Mulitply {
+
+	public static void main(String[] args) {
+		
+		int result=multiple(5,10);
+
+
+	}
+
+	private static int multiple(int i, int j) {
+		
+		
+		
+		return result;
+	}
+
+}
